@@ -1,6 +1,6 @@
 var gulp = require("gulp"),
-		connect = require("gulp-connect"),
-		opn = require("opn");
+	connect = require("gulp-connect"),
+	opn = require("opn");
 
 // Запускаем локальный сервер
 gulp.task('connect', function() {
